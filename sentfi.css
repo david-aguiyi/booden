@@ -11,6 +11,11 @@
     src: url(Qdbettercomicsans-jEEeG.ttf);
 }
 
+.p2p-info p{
+    font-size: 2rem;
+    line-height: 1;
+}
+
 :root {
     --green-color: #2723FF;
     --font-family: Comic;
@@ -11607,7 +11612,7 @@ img.booden2 {
     justify-content: center;
 }
 .contract, .contract2 {
-    margin-top: 2rem;
+    margin-top: 10rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -12204,6 +12209,11 @@ img.right-img {
 }
 #section-1{
     margin-bottom: -16rem;
+}
+
+.p2p-info p{
+    font-size: 2.5rem;
+    line-height: 1;
 }
 
 .sniffers{
