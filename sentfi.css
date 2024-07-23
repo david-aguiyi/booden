@@ -12233,3 +12233,9 @@ img.right-img {
 .sniffers{
     display: none;
 }
+
+@media (min-width: 1300px) {
+    .mqrsc{
+        margin-top: 30rem;
+    }
+}
